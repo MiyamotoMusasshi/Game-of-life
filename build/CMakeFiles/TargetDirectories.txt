@@ -1,0 +1,3 @@
+/home/venator/projects/cpp/life/build/CMakeFiles/Life.dir
+/home/venator/projects/cpp/life/build/CMakeFiles/edit_cache.dir
+/home/venator/projects/cpp/life/build/CMakeFiles/rebuild_cache.dir
