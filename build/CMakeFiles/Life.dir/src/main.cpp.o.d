@@ -264,4 +264,5 @@ CMakeFiles/Life.dir/src/main.cpp.o: \
  /usr/include/SFML/System/MemoryInputStream.hpp \
  /usr/include/SFML/System/Sleep.hpp \
  /usr/include/SFML/System/TimeoutWithPredicate.hpp \
- /usr/include/SFML/System/Version.hpp
+ /usr/include/SFML/System/Version.hpp \
+ /home/venator/projects/cpp/life/src/utils.h

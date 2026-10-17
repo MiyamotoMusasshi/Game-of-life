@@ -9,6 +9,7 @@ find_package(SFML 3 REQUIRED COMPONENTS Graphics Window System)
 
 add_executable(Life
     src/main.cpp
+    src/utils.cpp
 )
 
 target_link_libraries(Life PRIVATE

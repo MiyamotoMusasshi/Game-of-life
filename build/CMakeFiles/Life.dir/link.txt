@@ -1,1 +1,1 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Life.dir/link.d CMakeFiles/Life.dir/src/main.cpp.o -o Life  /usr/lib/libsfml-graphics.so.3.1.0 /usr/lib/libsfml-window.so.3.1.0 /usr/lib/libsfml-system.so.3.1.0
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Life.dir/link.d CMakeFiles/Life.dir/src/main.cpp.o CMakeFiles/Life.dir/src/utils.cpp.o -o Life  /usr/lib/libsfml-graphics.so.3.1.0 /usr/lib/libsfml-window.so.3.1.0 /usr/lib/libsfml-system.so.3.1.0
